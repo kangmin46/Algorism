@@ -1,3 +1,5 @@
+package graph;
+
 import java.util.Scanner;
 
 public class BaekJoon7576 {
