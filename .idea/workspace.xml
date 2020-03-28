@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0e49a94e-eca1-49b0-9a8e-8b8b2291de83" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/BaekJoon1406.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,18 +28,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-849">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sort/BaekJoon10825.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-140">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,11 +68,35 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bruteforce/BaekJoon14889.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/stack/BaekJoon1406.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="41" column="14" selection-end-line="86" />
+            <state relative-caret-position="398">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,18 +135,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sort/BaekJoon11651.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -149,10 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NM1.java" />
-        <option value="$PROJECT_DIR$/src/NM2.java" />
-        <option value="$PROJECT_DIR$/src/NM3.java" />
-        <option value="$PROJECT_DIR$/src/NM4.java" />
         <option value="$PROJECT_DIR$/src/bruteforce/NM4.java" />
         <option value="$PROJECT_DIR$/src/NM5.java" />
         <option value="$PROJECT_DIR$/src/bruteforce/NM5.java" />
@@ -199,6 +196,10 @@
         <option value="$PROJECT_DIR$/src/bruteforce/BaekJoon1339.java" />
         <option value="$PROJECT_DIR$/src/BaekJoon14888.java" />
         <option value="$PROJECT_DIR$/src/bruteforce/BaekJoon14888.java" />
+        <option value="$PROJECT_DIR$/src/BaekJoon14889.java" />
+        <option value="$PROJECT_DIR$/src/bruteforce/BaekJoon14889.java" />
+        <option value="$PROJECT_DIR$/src/BaekJoon1406.java" />
+        <option value="$PROJECT_DIR$/src/stack/BaekJoon1406.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
@@ -229,12 +230,6 @@
               <item name="algorism" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorism" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorism" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorism" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bruteforce" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.BaekJoon1406">
     <configuration name="BaekJoon10825" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.BaekJoon10825" />
       <module name="Algorism" />
@@ -309,8 +304,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BaekJoon1406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.BaekJoon1406" />
+      <module name="Algorism" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BaekJoon14888" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bruteforce.BaekJoon14888" />
+      <module name="Algorism" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaekJoon14889" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bruteforce.BaekJoon14889" />
       <module name="Algorism" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -337,20 +346,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Algorism" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BaekJoon1406" />
+        <item itemvalue="Application.BaekJoon14889" />
         <item itemvalue="Application.BaekJoon14888" />
         <item itemvalue="Application.BaekJoon1339" />
         <item itemvalue="Application.BaekJoon2529" />
-        <item itemvalue="Application.BaekJoon10825" />
       </list>
     </recent_temporary>
   </component>
@@ -372,17 +374,18 @@
       <workItem from="1584868745149" duration="4912000" />
       <workItem from="1584939649062" duration="1900000" />
       <workItem from="1584946571112" duration="5195000" />
-      <workItem from="1585111347035" duration="16266000" />
+      <workItem from="1585111347035" duration="21159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67829000" />
+    <option name="totallyTimeSpent" value="72722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="954" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15567766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15567766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -391,7 +394,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32946634" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32946634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39907193" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -426,12 +429,6 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/bruteforce/BaekJoon14888.java</url>
-          <line>98</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/bruteforce/BaekJoon2529.java</url>
           <line>5</line>
@@ -445,6 +442,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>answers.contains(stringBuffer.toString());</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>map</expression-string>
         <language-id>JAVA</language-id>
@@ -833,10 +835,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/bruteforce/BaekJoon14889.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stack/BaekJoon1406.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="41" column="14" selection-end-line="86" />
+        <state relative-caret-position="398">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
