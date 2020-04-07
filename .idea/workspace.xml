@@ -4,7 +4,6 @@
     <list default="true" id="0e49a94e-eca1-49b0-9a8e-8b8b2291de83" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearch/BaekJoon1790.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarysearch/BaekJoon1790.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,18 +101,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Number3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/binarysearch/BaekJoon1790.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="239">
@@ -122,14 +109,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/binarysearch/BaekJoon1654.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+            <state relative-caret-position="29">
+              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -149,8 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/graph/Main.java" />
-        <option value="$PROJECT_DIR$/src/graph/BaekJoon2667.java" />
         <option value="$PROJECT_DIR$/src/BaekJoon15988.java" />
         <option value="$PROJECT_DIR$/src/dp/BaekJoon15988.java" />
         <option value="$PROJECT_DIR$/src/BaekJoon1149.java" />
@@ -199,6 +193,8 @@
         <option value="$PROJECT_DIR$/src/Number3.java" />
         <option value="$PROJECT_DIR$/src/BaekJoon1790.java" />
         <option value="$PROJECT_DIR$/src/binarysearch/BaekJoon1790.java" />
+        <option value="$PROJECT_DIR$/src/BaekJoon1654.java" />
+        <option value="$PROJECT_DIR$/src/binarysearch/BaekJoon1654.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
@@ -270,6 +266,13 @@
   <component name="RunManager" selected="Application.Main">
     <configuration name="BaekJoon1182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bruteforce.BaekJoon1182" />
+      <module name="Algorism" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaekJoon1654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarysearch.BaekJoon1654" />
       <module name="Algorism" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -361,10 +364,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BaekJoon1654" />
         <item itemvalue="Application.BaekJoon1790" />
         <item itemvalue="Application.Number3" />
         <item itemvalue="Application.Number5" />
-        <item itemvalue="Application.Number4" />
       </list>
     </recent_temporary>
   </component>
@@ -388,12 +391,12 @@
       <workItem from="1584946571112" duration="5195000" />
       <workItem from="1585111347035" duration="22213000" />
       <workItem from="1585460400725" duration="89000" />
-      <workItem from="1585460506757" duration="30936000" />
+      <workItem from="1585460506757" duration="32292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104801000" />
+    <option name="totallyTimeSpent" value="106157000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -484,13 +487,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dp/BaekJoon15990.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dp/BaekJoon1463.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -905,13 +901,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/binarysearch/BaekJoon1654.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        <state relative-caret-position="29">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
         </state>
       </provider>
     </entry>
