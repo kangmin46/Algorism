@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class BaekJoon1790 {
     public static void main(String[] args) {
+
+        // 수 이어붙이기 문제
         Scanner scanner = new Scanner(System.in);
 
         int n = scanner.nextInt();
